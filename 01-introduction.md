@@ -1,4 +1,4 @@
-﻿# {{title}}
+# 01-giris
 
 ## Kendi cümlelerimle (videodan sonra, hafızadan)
 
